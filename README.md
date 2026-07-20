@@ -39,6 +39,9 @@ The AI feature analyzes information provided by the user and generates relevant 
 * AI-assisted development tools
 
 📸 Screenshots
+SCREENSHOT1: WHATSAPP IMAGE
+SCREENSHOT2: WHATSAPP IMAGE
+SCREENSHOT3: WHTSAAP IMAGE
 
 Screenshots of the application will be added here.
 
