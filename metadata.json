@@ -1,0 +1,6 @@
+{
+  "name": "ScholarPath AI",
+  "description": "ScholarPath AI is an AI-powered scholarship matching advisor and comprehensive search directory helping students find suitable global funding opportunities tailored to their profiles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
